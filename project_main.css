@@ -1,0 +1,103 @@
+body {
+    background: rgb(226, 222, 222);
+}
+
+#box {
+    position: absolute;
+    margin: 66px 188px;
+    /* border: 2px solid black; */
+    width: 350px;
+}
+
+
+#navbar {
+    /* display: inline; */
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    margin:  1px 520px;
+    text-decoration: none;
+    color: steelblue;
+}
+
+#box img {
+    height: 332px;
+    width: 332px;
+    border-radius: 7px;
+    border-bottom: 2px dotted orangered;
+}
+
+#box h3 {
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+}
+
+#box button {
+    width: 141px;
+    /* text-decoration: none; */
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    /* border-bottom: 1px dotted red; */
+    background-color: #1877f2;
+    color: rgb(226, 222, 222);
+    margin: 10px 80px;
+}
+
+#box button a:hover {
+    color: skyblue;
+}
+
+#box p {
+    text-align: center;
+    font-weight: bold;
+}
+
+#box button a {
+    text-decoration: none;
+    padding: 4px;
+}
+
+#form {
+    position: absolute;
+    /* border: 2px solid black; */
+    top: 243px;
+    right: 110px;
+    width: 332px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: darkseagreen;
+
+}
+
+#input1 {
+    border-radius: 8px;
+    margin: 12px 67px;
+
+}
+
+#newbuton {
+    width: 141px;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    background-color: #1877f2;
+    color: rgb(226, 222, 222);
+    margin: 8px 86px;
+  
+}
+
+#newbuton a:hover {
+    color: darkgrey;
+    background-color: darkred;
+}
+
+#newbuton a {
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 2px 5px;
+    padding: 3px;
+}

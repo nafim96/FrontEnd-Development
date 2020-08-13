@@ -1,0 +1,138 @@
+#portfolio{
+    font-weight: bold;
+    color: rgb(18 66 202 / 75%);
+    /* border: 1px dotted red; */
+    border-radius: 2px 259px 2px;
+    font-size: 25px;
+    background-color: #dae0e5;
+    width: 205px;
+    text-align: center;
+    margin-left: 94px;
+}
+#copy{
+    color: rgb(0, 0, 0);
+    
+}
+
+#home{
+    background-color: #bafb96;
+    border-radius: 8px;
+}
+#navli{
+    position: absolute;
+    float:right;
+    right: 10px;
+    
+}
+
+#buton{
+    text-align: center;
+    color: #00adff;
+    
+}
+#buton1{
+    text-align: center;
+    color: #953abe;
+    font-weight: bold;
+    font-size: 16px;
+    
+}
+#work{
+    text-align: center;
+    color: #b1281ade;
+    font-weight: bold;
+
+}
+#work:hover{
+    color: rgb(33, 30, 224);
+}
+
+#work:active{
+    color: rgba(48, 167, 18, 0.801);
+}
+#user{
+    text-align: center;
+    text-decoration: none;
+    color: deepskyblue;
+
+}
+#account_activeted{
+    color: rgb(22, 197, 6);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: dimgrey;
+    border-radius: 5px;
+    
+}
+#midle{
+    margin: -110px auto;
+    font-weight: bold;
+    color: #dee2e6;
+    font-size: 68px;
+}
+#para{
+    margin: 89px auto;
+    color: #00f3ff;
+    font-size: 53px;
+}
+#buttonapply{
+    position: absolute;
+    /* border: 3px solid black; */
+    margin: -62px -49px;
+    padding: 2px;
+    font-weight: bold;
+    border-radius: 23px 1px;
+    width: 125px;
+    background-color: #af4c4cad;
+}
+#buttonapply a{
+    text-decoration: none;
+    font-weight: bold;
+    color: cornsilk;
+}
+#buttonapply a:hover{
+    color: darkturquoise;
+}
+#tc{
+    color: indigo;
+    font-weight: bold;
+}
+#head_port{
+    position: absolute;
+    font-size: 13px;
+    font-weight: bold;
+    margin: -813px -645px;
+    /* border: 2px solid black; */
+    color: black;
+}
+#li-a li a{
+    color: #10ab0dfc;
+    
+}
+#li-a li a:hover{
+    color: rgb(33, 30, 224);
+}
+#detail{
+    text-align: center;
+    font-weight: bold;
+    color: dodgerblue;
+}
+#slk{
+    text-align: center;
+    font-weight: bold;
+    color: slategray;
+}
+#welcome{
+    text-align: center;
+    font-weight: bold;
+   
+}
+#welcome h1{
+    color: yellowgreen;
+    font-weight: bold;
+}
+#welcome p{
+    color: violet;
+    font-size: 18px;
+}
